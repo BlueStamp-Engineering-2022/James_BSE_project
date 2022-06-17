@@ -3,9 +3,9 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| James Tsaggaris | Archbishop Mitty High School | Computer science, Mechanical enginerring | Incoming Sophomore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXkiG5YJ6zjkGtchbxGNRkhMWTsvNOYVN7F4_TMeJu3X0Uwqnjes68TNkxVbRD-3skI3QnJhD4HCk5AlsjqnLztQqVedHypB-GSGs5B76UMmsL-jV-JVgt28HpZHxOLngdh5_rUgFyUb7_sYTPO09Y=s1430-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
