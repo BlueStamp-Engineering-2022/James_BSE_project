@@ -15,15 +15,17 @@ This will serve as a brief description of your project. Limit this to three sent
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
-[Camera holder CAD](https://ibb.co/ZfS8V0Y)
-[.](https://ibb.co/8XFpHnC)
-[.](https://ibb.co/9Tk3RtR)
+Camera Holder CAD
+![Headstone Image](https://ibb.co/ZfS8V0Y)
+![Headstone Image](https://ibb.co/8XFpHnC)
+![Headstone Image](https://ibb.co/9Tk3RtR)
 
 # First Milestone
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
-[Circuit diagram](https://ibb.co/bFKGVbX)
+Circuit Diagram
+![Headstone Image](https://ibb.co/bFKGVbX)
 
 # Starter Project
 
