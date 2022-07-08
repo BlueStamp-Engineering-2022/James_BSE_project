@@ -19,7 +19,11 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 [![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
 
+In this milestone, I
+
 # First Milestone
+
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")
 
 The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo motors. I connected these parts on a breadboard with wires.
 
@@ -54,8 +58,6 @@ Servo motors are motors that can be set to precise angles, from 0 to 180 degrees
 **Circuit Diagram**
 
 <img src="https://i.postimg.cc/jjjgFhLp/circuit.png" width="360" height="660">
-
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")
 
 # Starter Project
 
