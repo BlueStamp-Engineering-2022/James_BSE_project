@@ -19,7 +19,7 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 [![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
 
-In this milestone, I
+In this milestone, I created code for the Arduino. I initiated the two servo motors and attached them to D10 and D11 pins. Next, I got analog data from the MPU6050. An issue I encountered was that the MPU6050 was not calibrated. I had to download code to calibrate the XYZ gyro and accelerometer offsets. 
 
 # First Milestone
 
