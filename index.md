@@ -9,19 +9,19 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 # Final Milestone
 
-**Camera Holder**
+**Camera Holder CAD**
 
 <img src="https://i.postimg.cc/DzQdvJR2/Screen-Shot-2022-07-07-at-4-02-38-PM.png" width="547" height="384"> <img src="https://i.postimg.cc/j5ZHNVsm/Screen-Shot-2022-07-07-at-4-03-26-PM.png" width="318" height="384">
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
+[![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
 # Second Milestone
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
+[![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
 
 # First Milestone
 
-The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo motors. I connected these components on a breadboard with wires.
+The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo motors. I connected these parts on a breadboard with wires.
 
 **Connections**
 
@@ -39,7 +39,7 @@ The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo
 
 **Arduino**
 
-An Arduino is a programmable circuit board. The specific model I use is an Arduino Nano, the smallest of all Arduinos. The Arduino has digital and analog pins that either input or ouptut. Digital signals are either HIGH or LOW, while analog pins give values in a range. The Arduino also has a 5V power and a ground pin, which I connect to the respective breadboard rails.
+An Arduino is a programmable circuit board. The specific model I use is an Arduino Nano, the smallest of all models. The Arduino has digital and analog pins that either input or ouptut. Digital signals are either HIGH or LOW, while analog pins give values in a range. The Arduino also has a 5V power and a ground pin, which I connect to the respective breadboard rails.
 
 **MPU6050**
 
@@ -59,4 +59,4 @@ Servo motors are motors that can be set to precise angles, from 0 to 180 degrees
 
 # Starter Project
 
-My starter project is a customizable Arduino project. more detail
+My starter project is a customizable Arduino project. It includes a pressure sensor, an Arduino, and a servo motor. I take input from the pressure sensor and input it to the Arduino. Then, my code maps the pressure readings (from 0 to 1023) to the range of the servo motor in degrees (0-180). Finally, it sends a digital signal to the servo motor to control its angle. In this project, I learned how to solder, connect pins with wires, and create Arduino code.
