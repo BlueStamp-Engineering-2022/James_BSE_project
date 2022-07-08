@@ -19,7 +19,7 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 [![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
 
-In this milestone, I created code for the Arduino. I installed the libraries I2Cdev and MPU6050_6Axis_MotionApps20. Then, I initiated the two servo motors and attached them to D10 and D11 pins. After getting analog data from the MPU6050, an issue I encountered was that the MPU6050 was not calibrated. I had to download code to calibrate the XYZ gyro and accelerometer offsets. Then, I set servo 1 to the pitch times -1 and servo 2 to the roll. I learned that pitch is rotation in the side to side axis, roll is rotation in the front to back axis, and yaw is rotation in the vertical axis.
+In this milestone, I created code for the Arduino. I installed the libraries I2Cdev and MPU6050_6Axis_MotionApps20. Then, I initiated the two servo motors and attached them to D10 and D11 pins. After getting analog data from the MPU6050, an issue I encountered was that the MPU6050 was not calibrated. I had to download code to calibrate the XYZ gyro and accelerometer offsets. Then, I set servo 1 to the pitch times -1 and servo 2 to the roll (depending on the orientation of the servo motors). I learned that pitch is rotation in the side to side axis, roll is rotation in the front to back axis, and yaw is rotation in the vertical axis.
 
 # First Milestone
 
