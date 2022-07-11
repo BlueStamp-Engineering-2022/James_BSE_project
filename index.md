@@ -11,6 +11,8 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 **Camera Holder CAD**
 
+In this milestone, I created a CAD camera holder in Shapr3D. 
+
 <img src="https://i.postimg.cc/DzQdvJR2/Screen-Shot-2022-07-07-at-4-02-38-PM.png" width="547" height="384"> <img src="https://i.postimg.cc/j5ZHNVsm/Screen-Shot-2022-07-07-at-4-03-26-PM.png" width="318" height="384">
 
 [![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
@@ -19,13 +21,13 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 [![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
 
-In this milestone, I created code for the Arduino. I installed the libraries I2Cdev and MPU6050_6Axis_MotionApps20. Then, I initiated the two servo motors and attached them to D10 and D11 pins. After getting analog data from the MPU6050, an issue I encountered was that the MPU6050 was not calibrated. I had to download code to calibrate the XYZ gyro and accelerometer offsets. Then, I set servo 1 to the pitch times -1 and servo 2 to the roll (depending on the orientation of the servo motors). I learned that pitch is rotation in the side to side axis, roll is rotation in the front to back axis, and yaw is rotation in the vertical axis.
+In this milestone, I created code for the Arduino. I installed the libraries I2Cdev and MPU6050_6Axis_MotionApps20. Then, I initiated the two servo motors and attached them to D10 and D11 pins. After getting analog data from the MPU6050, an issue I encountered was that the MPU6050 was not calibrated. I had to download code to calibrate the XYZ gyro and accelerometer offsets. Then, I set servo 1 to the pitch times -1 and servo 2 to the roll (depending on the orientation of the servo motors). I learned that pitch is rotation in the side to side axis, roll is rotation in the front to back axis, and yaw is rotation in the vertical axis. Another bug I encountered is that
 
 # First Milestone
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")
 
-The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo motors. I connected these parts on a breadboard with wires.
+The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo motors. In this milestone, I connected these parts on a breadboard with wires.
 
 **Connections**
 
