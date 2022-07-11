@@ -41,7 +41,7 @@ The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo
 - MPU6050 GND to ground rail
 - MPU6050 SCL to 10kΩ resistor to 5V rail
 - MPU6050 SDA to 10kΩ resistor to 5V rail
-- servos #1 and #2 power and ground to 5V rail and ground rail
+- servos #1 and #2 power to 5V rail, ground to ground rail
 
 **Arduino**
 
