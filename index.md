@@ -19,13 +19,13 @@ In this milestone, I created a CAD camera holder in Shapr3D.
 
 # Second Milestone
 
-[![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
+[![Milestone](https://i3.ytimg.com/vi/kxWnwhuL-DE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kxWnwhuL-DE "Second Milestone")
 
 In this milestone, I created code for the Arduino. I installed the libraries I2Cdev and MPU6050_6Axis_MotionApps20. Then, I initiated the two servo motors and attached them to D10 and D11 pins. After getting analog data from the MPU6050, an issue I encountered was that the MPU6050 was not calibrated. I had to download code to calibrate the XYZ gyro and accelerometer offsets. I used a function from the MPU6050 library to convert the quaternion to angles. Then, I set servo 1 to the pitch times -1 and servo 2 to the roll. I learned that pitch is rotation in the side to side axis, roll is rotation in the front to back axis, and yaw is rotation in the vertical axis.
 
 # First Milestone
 
-[![First Milestone](https://i3.ytimg.com/vi/6pxER5YcX_w/maxresdefault.jpg)](https://www.youtube.com/watch?v=6pxER5YcX_w "First Milestone")
+[![First Milestone](https://i3.ytimg.com/vi/kxWnwhuL-DE/maxresdefault.jpg)](https://www.youtube.com/watch?v=6pxER5YcX_w "First Milestone")
 
 The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo motors. In this milestone, I connected these parts on a breadboard with wires.
 
