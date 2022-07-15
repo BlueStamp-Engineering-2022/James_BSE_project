@@ -11,9 +11,13 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 **Camera Holder CAD**
 
-In this milestone, I created a CAD camera holder in Shapr3D. 
+In this milestone, I created a CAD camera holder in Shapr3D. Two plastic pieces hold the camera from the top and bottom. A trapezoid shaped extrusion from one piece to another acts as a rail. 
 
 <img src="https://i.postimg.cc/DzQdvJR2/Screen-Shot-2022-07-07-at-4-02-38-PM.png" width="547" height="384"> <img src="https://i.postimg.cc/j5ZHNVsm/Screen-Shot-2022-07-07-at-4-03-26-PM.png" width="318" height="384">
+
+**Laser Cut Case**
+
+I designed a plastic case to hide the components of the gimbal. These parts were laser cut. To stick them together, I designed hinge-like offsets in the edges so the parts would fit together.
 
 [![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
