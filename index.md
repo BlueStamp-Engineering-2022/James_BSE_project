@@ -11,7 +11,7 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 **Camera Holder CAD**
 
-In this milestone, I created a CAD camera holder in Shapr3D. Two plastic pieces hold the camera from the top and bottom. A trapezoid shaped extrusion from one piece to another acts as a rail. 
+In this milestone, I created a CAD camera holder in Shapr3D. Two plastic pieces hold the camera from the top and bottom. A trapezoid shaped extrusion from one piece to another acts as a rail.
 
 <img src="https://i.postimg.cc/DzQdvJR2/Screen-Shot-2022-07-07-at-4-02-38-PM.png" width="547" height="384"> <img src="https://i.postimg.cc/j5ZHNVsm/Screen-Shot-2022-07-07-at-4-03-26-PM.png" width="318" height="384">
 
