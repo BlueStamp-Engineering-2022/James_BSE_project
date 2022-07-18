@@ -11,13 +11,13 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 **Camera Holder CAD**
 
-In this milestone, I created a CAD camera holder in Shapr3D. Two plastic pieces hold the camera from the top and bottom. A trapezoid shaped extrusion from one piece to another acts as a rail.
+In this milestone, I created a CAD camera holder in Shapr3D. Two plastic pieces hold the camera from the top and bottom. A plastic rail sticks out from one piece to the other. This allows one of the pieces to move up and down.
 
 <img src="https://i.postimg.cc/DzQdvJR2/Screen-Shot-2022-07-07-at-4-02-38-PM.png" width="547" height="384"> <img src="https://i.postimg.cc/j5ZHNVsm/Screen-Shot-2022-07-07-at-4-03-26-PM.png" width="318" height="384">
 
 **Laser Cut Case**
 
-I designed a plastic case to hide the components of the gimbal. These parts were laser cut. To stick them together, I designed hinge-like offsets in the edges so the parts would fit together.
+I designed a plastic case to hold the components of the gimbal. These parts were laser cut. I designed hinge-like offsets in the edges so the parts would fit together.
 
 [![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
@@ -25,7 +25,7 @@ I designed a plastic case to hide the components of the gimbal. These parts were
 
 [![Milestone](https://i3.ytimg.com/vi/kxWnwhuL-DE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kxWnwhuL-DE "Second Milestone")
 
-In this milestone, I created code for the Arduino. I installed the libraries I2Cdev and MPU6050_6Axis_MotionApps20. Then, I initiated the two servo motors and attached them to D10 and D11 pins. After getting analog data from the MPU6050, an issue I encountered was that the MPU6050 was not calibrated. I had to download code to calibrate the XYZ gyro and accelerometer offsets. I used a function from the MPU6050 library to convert the quaternion to angles. Then, I set servo 1 to the pitch times -1 and servo 2 to the roll. I learned that pitch is rotation in the side to side axis, roll is rotation in the front to back axis, and yaw is rotation in the vertical axis.
+In this milestone, I created the code for the Arduino. I installed the I2Cdev and MPU6050_6Axis_MotionApps20 libraries to process the accelerometer data. When I got data from the accelerometer, it was uncalibrated according. I had to download code to calibrate the XYZ gyroscope and accelerometer offsets. After getting the correct data, I used a function from the MPU6050 library to convert the quaternion to angles. A quaternion is a way to express 3D orientation in 4 values. Then, I set servo 1 to the pitch times -1 and servo 2 to the roll. Each servo motor balanced rotation in its axis. However, when two axes were changed at once, the angles were incorrect. After much trial and error, I corrected the angles by . I learned that pitch is rotation in the side to side axis, roll is rotation in the front to back axis, and yaw is rotation in the vertical axis.
 
 # First Milestone
 
