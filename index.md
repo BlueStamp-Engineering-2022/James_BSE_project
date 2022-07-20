@@ -3,11 +3,13 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| James | Archbishop Mitty High School | Computer Science, Mechanical Enginerring | Incoming Sophomore
+| James T. | Archbishop Mitty High School | Computer Science, Mechanical Enginerring | Incoming Sophomore
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXkiG5YJ6zjkGtchbxGNRkhMWTsvNOYVN7F4_TMeJu3X0Uwqnjes68TNkxVbRD-3skI3QnJhD4HCk5AlsjqnLztQqVedHypB-GSGs5B76UMmsL-jV-JVgt28HpZHxOLngdh5_rUgFyUb7_sYTPO09Y=s1430-no?authuser=0)
 
 # Final Milestone
+
+[![Milestone](https://i3.ytimg.com/vi/yfVs0a3BEFU/maxresdefault.jpg)](https://www.youtube.com/watch?v=yfVs0a3BEFU "Final Milestone")
 
 **Camera Holder CAD**
 
@@ -18,8 +20,6 @@ In this milestone, I created a CAD camera holder in Shapr3D. Two plastic pieces 
 **Laser Cut Case**
 
 I designed a plastic case to hold the components of the gimbal. These parts were laser cut. I designed hinge-like offsets in the edges so the parts would fit together.
-
-[![Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
 # Second Milestone
 
