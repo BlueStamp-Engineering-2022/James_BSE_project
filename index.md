@@ -5,7 +5,7 @@ My project is an automatic camera stabilizer. An accelerometer measures rotation
 |:--:|:--:|:--:|:--:|
 | James T. | Archbishop Mitty High School | Computer Science, Mechanical Enginerring | Incoming Sophomore
 
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXkiG5YJ6zjkGtchbxGNRkhMWTsvNOYVN7F4_TMeJu3X0Uwqnjes68TNkxVbRD-3skI3QnJhD4HCk5AlsjqnLztQqVedHypB-GSGs5B76UMmsL-jV-JVgt28HpZHxOLngdh5_rUgFyUb7_sYTPO09Y=s1430-no?authuser=0" width="300" height="300">
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXkiG5YJ6zjkGtchbxGNRkhMWTsvNOYVN7F4_TMeJu3X0Uwqnjes68TNkxVbRD-3skI3QnJhD4HCk5AlsjqnLztQqVedHypB-GSGs5B76UMmsL-jV-JVgt28HpZHxOLngdh5_rUgFyUb7_sYTPO09Y=s1430-no?authuser=0" width="400" height="400">
 
 # Final Milestone
 
