@@ -29,7 +29,7 @@ In this milestone, I created the code for the Arduino. I installed the I2Cdev an
 
 # First Milestone
 
-[![First Milestone](https://i3.ytimg.com/vi/kxWnwhuL-DE/maxresdefault.jpg)](https://www.youtube.com/watch?v=6pxER5YcX_w "First Milestone")
+[![First Milestone](https://i3.ytimg.com/vi/6pxER5YcX_w/maxresdefault.jpg)](https://www.youtube.com/watch?v=6pxER5YcX_w "First Milestone")
 
 The main components include 1 Arduino nano, 1 MPU6050 accelerometer, and 2 servo motors. In this milestone, I connected these parts on a breadboard with wires.
 
