@@ -69,3 +69,5 @@ Servo motors are motors that can be set to precise angles, from 0 to 180 degrees
 # Starter Project
 
 My starter project is a customizable Arduino project. It includes a pressure sensor, an Arduino, and a servo motor. I take input from the pressure sensor and input it to the Arduino. Then, my code maps the pressure readings (from 0 to 1023) to the range of the servo motor in degrees (0-180). Finally, it sends a digital signal to the servo motor to control its angle. In this project, I learned how to solder, connect pins with wires, and create Arduino code.
+
+[![First Milestone](https://i3.ytimg.com/vi/kxWnwhuL-DE/maxresdefault.jpg)](https://www.youtube.com/watch?v=6pxER5YcX_w "First Milestone")
