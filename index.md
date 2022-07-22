@@ -60,7 +60,7 @@ The MPU6050 accelerometer measures acceleration. A suspended mass on springs mov
 
 **Servo motor**
 
-Servo motors are motors that can be set to precise angles, from 0 to 180 degrees. This allows me to set them to the opposite angle measured by the MPU6050.
+Servo motors are motors that can be set to precise angles, from 0 to 180 degrees. This allows me to set them to the angles measured by the MPU6050.
 
 **Circuit Diagram**
 
